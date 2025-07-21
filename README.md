@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Boudouh Ahmed Chouaib
 
-🎓 2nd year student at ESTIN  
+🎓 3rd year student at ESTIN  
 💻 Passionate about Web Development and Cybersecurity  
 🌱 Currently learning: React, Next.js & Express.js  
 🚀 Working on full-stack projects & penetration testing basics  
