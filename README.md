@@ -17,11 +17,12 @@
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000&style=flat-square)
 ![Next.js](https://img.shields.io/badge/-Next.js-000?logo=next.js&logoColor=fff&style=flat-square)
 ![Express.js](https://img.shields.io/badge/-Express.js-000?logo=express&logoColor=fff&style=flat-square)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=000&style=flat-square)
 
 ---
 
 ### 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chouaibdh10&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chouaibdh10&show_icons=true&theme=tokyonight)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chouaibdh10&layout=compact&theme=tokyonight)
 
 ---
