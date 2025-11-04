@@ -15,8 +15,6 @@
 ![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=fff&style=flat-square)
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=fff&style=flat-square)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000&style=flat-square)
-![Next.js](https://img.shields.io/badge/-Next.js-000?logo=next.js&logoColor=fff&style=flat-square)
-![Express.js](https://img.shields.io/badge/-Express.js-000?logo=express&logoColor=fff&style=flat-square)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=000&style=flat-square)
 
 ---
