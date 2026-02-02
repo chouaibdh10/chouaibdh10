@@ -2,10 +2,7 @@
 
 ## ✨ Hi there 👋 I'm **Boudouh Ahmed Chouaib**
 
-<p>
-  <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge&logo=github" alt="Status">
-  <img src="https://img.shields.io/badge/Portfolio-Live-blue?style=for-the-badge" alt="Portfolio">
-</p>
+
 
 🎓 **3rd year student at ESTIN**  
 💻 **Web Development & Cybersecurity Enthusiast**  
@@ -56,11 +53,7 @@
 [![GitHub](https://img.shields.io/badge/-GitHub-000?logo=github&style=for-the-badge)](https://github.com/chouaibdh10)
 ---
 
-### ⚡ **Fun Fact**
 
-> 💡 I started coding because I wanted to **build cool things** and **understand how the internet works**. Now I'm passionate about creating secure, efficient applications!
-
----
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=chouaibdh10&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views">
