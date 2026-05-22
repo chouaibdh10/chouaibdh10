@@ -82,6 +82,6 @@
 
 <img src="https://komarev.com/ghpvc/?username=chouaibdh10&label=Profile+Views&color=53d8fb&style=flat-square" />
 
-### *"In God we trust. All others we monitor."*
+### *"In God we trust."*
 
 </div>
